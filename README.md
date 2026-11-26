@@ -90,7 +90,7 @@ DELAY_MAX = 5
 ---
 
 <p align="center">
-  <strong>Developed by Kiarash 🖤</strong>
+  <strong>Developed by @Itzkiarashnf </strong>
   <br>
-  <code>CODE · EXPERIMENT · INNOVATE</code>
+  <code>2026 November ( AI WAS USED IN THIS PROJECT ) </code>
 </p>
